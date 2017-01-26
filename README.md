@@ -9,3 +9,5 @@ this a test repository for the **2017** Git class
 
 
 ajout
+
+local edit to README
